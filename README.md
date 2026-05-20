@@ -1,6 +1,22 @@
-# Public GitHub Boundary
+# SellDraft Studio
 
-This folder is the only intended seed content for a future public GitHub repository.
+Public marketing, support, and privacy pages for SellDraft Studio.
 
-It contains marketing, support, and privacy-policy pages only. Do not publish app source code, internal planning documents, market research, Xcode project files, build settings, issue templates, credentials, or private release notes in the public repository.
+SellDraft Studio is a native iPhone, iPad, and Mac listing workspace for resale sellers. It helps sellers turn real item photos and seller-provided facts into editable marketplace listing drafts.
 
+## Public Pages
+
+- Marketing: https://noktirnal42.github.io/MarketplaceListingStudioPublic/
+- Support: https://noktirnal42.github.io/MarketplaceListingStudioPublic/support.html
+- Privacy Policy: https://noktirnal42.github.io/MarketplaceListingStudioPublic/privacy.html
+
+## Public Boundary
+
+This repository intentionally contains only public-facing documents and assets:
+
+- Marketing page
+- Support page
+- Privacy policy
+- Public brand images
+
+It must not contain app source code, Xcode projects, build settings, internal planning documents, credentials, provisioning details, private issue notes, or unpublished release artifacts.
